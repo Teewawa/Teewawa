@@ -12,7 +12,7 @@ Moving from Guam to the US (Nov 2021) has opened an opportunity for me to switch
 * 🚀  I'm currently working on [my portfolio!](http://dev-tiara.netlify.app/)
 * 🧠  I'm learning techniques in creating responsive web designs: include flexbox, grids, and breakpoints
 * 🤝  I'm open to collaborating on projects focused on HTML, CSS, and JavaScript!
-* ⚡  I'm quite new here & to hope to put in best practices through my commits. I am also open to network and work for remote roles at the moment.
+* ⚡  I'm quite new here & hope to put in best practices through my commits. I am also open to network and work for remote roles at the moment.
 
 ### Skills
 
