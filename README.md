@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 an aspiring front-end developer
 -------------------------------
 
-Moving from Guam to the US (Nov 2021) has opened an opportunity for me to switch directions from my 3-yr-IT-focused career to a CS-focused one! I am currently several months in my front end development journey with SheCodes! I would appreciate any advice, tips, and suggested web technologies that I should learn.
+Moving from Guam to the US, California (Nov 2021), & now Texas (June 2022) has opened an opportunity for me to switch directions from my 3-yr-IT-focused career to a CS-focused one! I am currently several months in my front end development journey with SheCodes! I would appreciate any advice, tips, and suggested web technologies that I should learn.
 
 * 🌍  I'm based in the US
 * 🖥️  See my portfolio at [https://dev-tiara.netlify.app](http://dev-tiara.netlify.app/)
