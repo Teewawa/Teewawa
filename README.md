@@ -1,10 +1,23 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Tiara Mendiola
 ======================================================================================================================================
 
-an aspiring Software Development Engineer - currently studying front-end development skills
----------------------------------------------------------------------------------------------
+an aspiring Software Development Engineer 
+------------------------------------------------------------------------------------------------------------
 
-Moving from Guam to the US, California (Nov 2021), & now Texas (June 2022) has opened an opportunity for me to switch directions from my 3-yr-IT-focused career to a CS-focused one! I am currently several months in my front end development journey with SheCodes! I would appreciate any advice, tips, and suggested web technologies that I should learn.
+I was born and raised on the island of Guam. Not too long ago, I moved to the United
+                    States leaving behind everything I knew and opened a door to a world I've never
+                    experienced before.
+                    <br>
+                    <br>
+                    Having studied Computer Science and working in a career focused on Information Technology
+                    for the past 3 years, I have been given the opportunity to steer towards a career focused
+                    in Computer Science. <a href="https://cdn.ttgtmedia.com/rms/onlineimages/data_center-info_tech_vs_computer_science-f.png" target="_blank">(click to see the comparison!)</a> 
+                    <br>
+                    <br>
+                    I am currently enrolled with SheCodes, which is focused on Front-end Development web technologies.
+                    So far, I've received two certificates and completed two live projects. My portfolio will be my
+                    third submission and will receive my third certificate. Immediately after, I'll be starting the
+                    final Workshop focused on React.
 
 * 🌍  I'm based in the US
 * 🖥️  See my portfolio at [https://dev-tiara.netlify.app](http://dev-tiara.netlify.app/)
