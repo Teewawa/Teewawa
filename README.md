@@ -28,7 +28,7 @@ Other study material I am utiziling are Udemy courses teaching JavaScript, full 
 * 🚀  I'm currently working on a React version of my [weather app](https://weather-app-tiaram.netlify.app/)
 * 🧠  I'm learning all about React through SheCodes & Udemy!
 * 🤝  I'm open to collaborating on projects focused on HTML, CSS, and JavaScript!
-* ⚡  I'm quite new here & hope to put in best practices through my commits. I am also open to network and work for remote roles at the moment.
+* ⚡  I'm quite new here, so I hope to put in best practices through my commits & on those missed contribution days, know I'm out here learning new topics!! Nothing to do with consistency, I promise I'm trying my best 😅!! 
 
 ### Skills
 
