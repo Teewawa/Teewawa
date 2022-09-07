@@ -4,26 +4,29 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 currently an aspiring Front End Developer!
 ------------------------------------------------------------------------------------------------------------
 
-I was born and raised on the island of Guam. Not too long ago, I moved to the United
-                    States leaving behind everything I knew and opened a door to a world I've never
-                    experienced before.
-                    <br>
-                    <br>
-                    Having studied Computer Science and working in a career focused on Information Technology
-                    for the past 3 years, I have been given the opportunity to steer towards a career focused
-                    in Computer Science. <a href="https://cdn.ttgtmedia.com/rms/onlineimages/data_center-info_tech_vs_computer_science-f.png" target="_blank">(click to see the comparison!)</a> 
-                    <br>
-                    <br>
-                    I am currently enrolled with SheCodes, which is focused on Front-end Development web technologies.
-                    So far, I've received two certificates and completed two live projects. My portfolio will be my
-                    third submission and will receive my third certificate. Immediately after, I'll be starting the
-                    final Workshop focused on React.
-
+I was born and raised on the <a href="https://www.visitguam.com/about-guam/" target="_blank">island of Guam,</a> 
+where things are very simple! My culture is built on hospitality, family, and hard work. 
+Not too long ago, I moved to the United States leaving behind everything I knew and have entered a world full of experiences waiting to happen!
+<br>
+<br>
+I studied Computer Science at this <a href="https://www.uog.edu/" target="_blank" class="external-links">university</a>
+and also got my hands dirty in <a href="https://www.instagram.com/teewamics/" target="_blank">ceramics</a>. 
+For the passed 3 years, my career was very focused in Information Technology, where I practiced professional customer service, quality & technical user support, troubleshooting, repairing workstations, & being part of a small team that I eventually had to manage! 
+Since moving, this was my opportunity to steer towards a career focused in Computer Science 
+<a href="https://cdn.ttgtmedia.com/rms/onlineimages/data_center-info_tech_vs_computer_science-f.png" target="_blank">(IT vs CS)!</a>
+<br>
+<br>
+I am currently enrolled with SheCodes, which is focused on front end development web technologies.
+So far, I've received 3 certificates and completed several live projects. Everyday I am studying & deeping my knowledge on front end development 
+through the <a href="https://developer.mozilla.org/en-US/docs/Learn/Front-end_web_developer" target="_blank">MDN pathway</a>.
+Other study material I am utiziling are Udemy courses teaching JavaScript, full stack web development, and coding data structures & algorithms 
+(taught in JavaScript). I aim to focus my studies in front end and when confident enough, I plan to study back end web technologies. 
+                    
 * 🌍  I'm based in the US
 * 🖥️  See my portfolio at [https://dev-tiara.netlify.app](http://dev-tiara.netlify.app/)
 * ✉️  You can contact me at [dev.tiaram@gmail.com](mailto:dev.tiaram@gmail.com)
-* 🚀  I'm currently working on [my portfolio!](http://dev-tiara.netlify.app/)
-* 🧠  I'm learning techniques in creating responsive web designs: include flexbox, grids, and breakpoints
+* 🚀  I'm currently working on a React version of my [weather app](https://weather-app-tiaram.netlify.app/)
+* 🧠  I'm learning all about React through SheCodes & Udemy!
 * 🤝  I'm open to collaborating on projects focused on HTML, CSS, and JavaScript!
 * ⚡  I'm quite new here & hope to put in best practices through my commits. I am also open to network and work for remote roles at the moment.
 
