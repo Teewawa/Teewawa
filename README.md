@@ -1,8 +1,8 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Tiara Mendiola
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tiara Mendiola<br>
 ======================================================================================================================================
 
-currently an aspiring Front End Developer!
-------------------------------------------------------------------------------------------------------------
+front end developer
+-------------------
 
 I was born and raised on the <a href="https://www.visitguam.com/about-guam/" target="_blank">island of Guam,</a> 
 where things are very simple! My culture is built on hospitality, family, and hard work. 
@@ -21,22 +21,26 @@ So far, I've received 3 certificates and completed several live projects. Everyd
 through the <a href="https://developer.mozilla.org/en-US/docs/Learn/Front-end_web_developer" target="_blank">MDN pathway</a>.
 Other study material I am utiziling are Udemy courses teaching JavaScript, full stack web development, and coding data structures & algorithms 
 (taught in JavaScript). I aim to focus my studies in front end and when confident enough, I plan to study back end web technologies. 
-                    
-* 🌍  I'm based in the US
+
+* 🌍  I'm based in US
 * 🖥️  See my portfolio at [https://dev-tiara.netlify.app](http://dev-tiara.netlify.app/)
 * ✉️  You can contact me at [dev.tiaram@gmail.com](mailto:dev.tiaram@gmail.com)
-* 🚀  I'm currently working on a React version of my [weather app](https://weather-app-tiaram.netlify.app/)
-* 🧠  I'm learning all about React through SheCodes & Udemy!
-* 🤝  I'm open to collaborating on projects focused on HTML, CSS, and JavaScript!
-* ⚡  I'm quite new here, so I hope to put in best practices through my commits & on those missed contribution days, know I'm out here learning new topics!! Nothing to do with consistency, I promise I'm trying my best 😅!! 
+* 🧠  I'm learning all about React!
+* 🤝  I'm open to collaborating on front-end development focused projects
+* ⚡  I'm quite new here & to hope to put in best practices through my commits
+
+<a href="https://www.github.com/Teewawa" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Teewawa?logo=github&style=for-the-badge&color=0891b2&labelColor=0f172a" /></a>
 
 ### Skills
+
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 </p>
 
 
@@ -48,11 +52,7 @@ Other study material I am utiziling are Udemy courses teaching JavaScript, full 
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Teewawa"><img src="https://github-readme-stats.vercel.app/api?username=Teewawa&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Teewawa's GitHub stats" /></a>
-
-<a href="http://www.github.com/Teewawa"><img src="https://activity-graph.herokuapp.com/graph?username=Teewawa&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/Teewawa" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Teewawa&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="http://www.github.com/Teewawa"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Teewawa&stroke=64748b&background=0f172a&ring=0891b2&fire=0891b2&currStreakNum=64748b&currStreakLabel=0891b2&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" /></a>
 
 ### Support Me
 
