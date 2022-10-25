@@ -16,11 +16,7 @@ Since moving, this was my opportunity to steer towards a career focused in Compu
 <a href="https://cdn.ttgtmedia.com/rms/onlineimages/data_center-info_tech_vs_computer_science-f.png" target="_blank">(IT vs CS)!</a>
 <br>
 <br>
-I am currently enrolled with SheCodes, which is focused on front end development web technologies.
-So far, I've received 3 certificates and completed several live projects. Everyday I am studying & deeping my knowledge on front end development 
-through the <a href="https://developer.mozilla.org/en-US/docs/Learn/Front-end_web_developer" target="_blank">MDN pathway</a>.
-Other study material I am utiziling are Udemy courses teaching JavaScript, full stack web development, and coding data structures & algorithms 
-(taught in JavaScript). I aim to focus my studies in front end and when confident enough, I plan to study back end web technologies. 
+I recently completed all SheCodes workshop. You can check out all my verified certificates & completed projects on my LinkedIn page or front end developer portfolio.
 
 * 🌍  I'm based in US
 * 🖥️  See my portfolio at [https://dev-tiara.netlify.app](http://dev-tiara.netlify.app/)
